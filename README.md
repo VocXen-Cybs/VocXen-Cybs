@@ -1,5 +1,5 @@
 # Quincy Dela Cruz
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vocxen_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quincy-dela-cruz-b0677b311?) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@.unavailable_0) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vocxen_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quincy-dela-cruz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@.unavailable_0) 
 
 I'm a Cybersecurity enthusiast with a strong passion for learning and exploring Information Security, Ethical Hacking, and Network Security. I have foundational experience in Virtual Machines, OS Basics, IT Fundamentals, Networking, and IoT Fundamentals. I love creating projects to enhance my knowledge and understanding of the lessons I've learned. I would love to collaborate with professionals in this field to further my knowledge.
 
