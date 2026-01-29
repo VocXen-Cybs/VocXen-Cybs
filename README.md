@@ -1,6 +1,3 @@
-# Quincy 
-
-
 I'm a Cybersecurity enthusiast with a strong passion for learning and exploring Information Security, Ethical Hacking, and Network Security. I have foundational experience in Virtual Machines, OS Basics, IT Fundamentals, Networking, and IoT Fundamentals. I love creating projects to enhance my knowledge and understanding of the lessons I've learned. I would love to collaborate with professionals in this field to further my knowledge.
 
 
